@@ -1,0 +1,5 @@
+interface:
+  display_name: "Connection Magic Blueprint"
+  short_description: "Research audiences and write short-form videos"
+  brand_color: "#00BFFF"
+  default_prompt: "Use $connection-magic-blueprint to research my audience and create short-form video topics."
