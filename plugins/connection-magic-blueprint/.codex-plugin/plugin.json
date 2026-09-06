@@ -1,0 +1,33 @@
+{
+  "name": "connection-magic-blueprint",
+  "version": "0.1.0",
+  "description": "Research an audience, uncover current pain points, choose strong short-form video topics, and create platform-specific scripts.",
+  "author": {
+    "name": "Evan Bang"
+  },
+  "keywords": [
+    "audience research",
+    "content strategy",
+    "short-form video",
+    "instagram reels",
+    "tiktok"
+  ],
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Connection Magic Blueprint",
+    "shortDescription": "Research audiences and write short-form videos.",
+    "longDescription": "An audience-first content workflow that researches current pain points, proposes 20 relevant video topics, and turns a selected idea into an Instagram Reels, TikTok, or dual-platform production script with a chosen CTA.",
+    "developerName": "Evan Bang",
+    "category": "Productivity",
+    "capabilities": [
+      "Research",
+      "Write"
+    ],
+    "brandColor": "#00BFFF",
+    "defaultPrompt": [
+      "Research my audience and give me 20 video topics.",
+      "Turn my rough idea into a short-form video script.",
+      "Create distinct Instagram and TikTok versions of my topic."
+    ]
+  }
+}
